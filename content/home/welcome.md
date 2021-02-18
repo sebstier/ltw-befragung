@@ -13,4 +13,4 @@ advanced:
   css_class:
 ---
 
-Herzlich willkommen auf der Projekt-Website der Landtagswahlstudie 2021. Hier finden Sie weiterführende Informationen, z.B. häufig gestellte Fragen zu der Befragung und Angaben zu den Projektverantwortlichen.
+Herzlich willkommen auf der Projekt-Website der Landtagswahlstudie 2021. Hier finden Sie weiterführende Informationen, z.B. häufig gestellte Fragen zu der Befragung und Informationen zu den Projektverantwortlichen.
