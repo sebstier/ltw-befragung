@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Projektteam
 subtitle:
 
 content:
@@ -24,6 +24,6 @@ content:
   - Alumni
 design:
   show_interests: false
-  show_role: true
-  show_social: true
+  show_role: false
+  show_social: false
 ---
