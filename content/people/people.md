@@ -27,5 +27,5 @@ design:
   show_role: false
   show_social: false
   show_organizations: true
-  show_related: false
+  show_latest: false
 ---
