@@ -6,7 +6,7 @@ title: Sebastian Stier
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Principal Investigators
 
 # Organizations/Affiliations
 organizations:
