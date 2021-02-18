@@ -11,7 +11,7 @@ role: Projektteam
 # Organizations/Affiliations
 organizations:
 - name: GESIS – Leibniz-Institut für Sozialwissenschaften
-  url: ""
+  url: "https://www.gesis.org/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
