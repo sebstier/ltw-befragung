@@ -70,4 +70,5 @@ user_groups:
 
 Sebastian Stier ist wissenschaftlicher Mitarbeiter (Senior Researcher) bei GESIS – Leibniz-Institut für Sozialwissenschaften in Köln. Er hat seine Promotion im Fach Politikwissenschaft an der Universität 2016 abgeschlossen. In seiner Forschung beschäftigt er sich mit politischer Kommunikation in sozialen Medien und der Anwendung computergestützter Methoden in den Sozialwissenschaften.
 
-Weitere Informationen zu Sebastian Stier finden Sie hier: https://www.gesis.org/institut/mitarbeiterverzeichnis/person/sebastian.stier
+Weitere Informationen zu Sebastian Stier finden Sie <a href="https://www.gesis.org/institut/mitarbeiterverzeichnis/person/sebastian.stier" target="_blank">hier</a>.
+
