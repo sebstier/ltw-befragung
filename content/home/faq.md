@@ -26,7 +26,7 @@ design:
 
 **Wer führt die Studie durch?**
 
-Die Studie wird von Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der Universität Koblenz-Landau, durchgeführt. Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informationen zu den Forschungsfeldern und Publikationen von Prof. Maier können Sie unter <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier" target="_blank">https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier</a> einsehen. Wenn Sie Fragen zur Landtagswahlstudie 2021 haben, können Sie jederzeit gerne bei E-Mail (maierj@uni-landau.de) oder telefonisch (06341-28038419) Kontakt zu Prof. Maier aufnehmen.
+Die Studie wird von Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der Universität Koblenz-Landau, durchgeführt. Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informationen zu den Forschungsfeldern und Publikationen von Prof. Maier können Sie auf der <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier" target="_blank">Website seines Forschungsbereichs</a> einsehen. Wenn Sie Fragen zur Landtagswahlstudie 2021 haben, können Sie jederzeit gerne bei E-Mail (maierj@uni-landau.de) oder telefonisch (06341-28038419) Kontakt zu Prof. Maier aufnehmen.
 
 **Wer hat die Studie in Auftrag gegeben?**
 
