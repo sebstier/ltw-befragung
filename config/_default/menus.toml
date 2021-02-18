@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Personen"
-  url = "personen"
+  url = "people"
   weight = 50
 
 #[[main]]
@@ -36,7 +36,7 @@
 
 [[main]]
   name = "Kontakt"
-  url = "kontakt"
+  url = "contact"
   weight = 60
 
 [[main]]
