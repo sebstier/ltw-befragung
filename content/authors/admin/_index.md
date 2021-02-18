@@ -11,7 +11,7 @@ role: Projektteam
 # Organizations/Affiliations
 organizations:
 - name: GESIS – Leibniz-Institut für Sozialwissenschaften
-  url: "https://www.gesis.org/institut/mitarbeiterverzeichnis/person/sebastian.stier"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,4 +68,6 @@ user_groups:
 - Projektteam
 ---
 
-Sebastian Stier ist wissenschaftlicher Mitarbeiter (Senior Researcher) bei GESIS – Leibniz-Institut für Sozialwissenschaften in Köln. In seiner Forschung beschäftigt er sich mit politischer Kommunikation in sozialen Medien.  
+Sebastian Stier ist wissenschaftlicher Mitarbeiter (Senior Researcher) bei GESIS – Leibniz-Institut für Sozialwissenschaften in Köln. Er hat seine Promotion im Fach Politikwissenschaft an der Universität 2016 abgeschlossen. In seiner Forschung beschäftigt er sich mit politischer Kommunikation in sozialen Medien und der Anwendung computergestützter Methoden in den Sozialwissenschaften.
+
+Weitere Informationen zu Sebastian Stier finden Sie hier: https://www.gesis.org/institut/mitarbeiterverzeichnis/person/sebastian.stier
