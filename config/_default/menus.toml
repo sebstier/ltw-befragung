@@ -29,6 +29,6 @@
  # weight = 50
 
 [[main]]
-  name = "Kontact"
+  name = "Kontakt"
   url = "contact"
   weight = 60
