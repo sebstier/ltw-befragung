@@ -6,7 +6,7 @@ title: Sebastian Stier
 superuser: true
 
 # Role/position
-role: Principal Investigators
+role: Projektteam
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Projektteam
 ---
 
 Sebastian Stier ist wissenschaftlicher Mitarbeiter (Senior Researcher) bei GESIS – Leibniz-Institut für Sozialwissenschaften in Köln. In seiner Forschung beschäftigt er sich mit politischer Kommunikation in sozialen Medien.  
