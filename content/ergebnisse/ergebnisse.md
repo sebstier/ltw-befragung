@@ -25,6 +25,6 @@ design:
 ---
 
 Wir haben bereits eine ähnliche Befragung von Kandidatinnen und Kandidaten zur Bürgerschaftswahl in Hamburg 2020 durchgeführt. Die Ergebnisse können Sie 
-{{% staticref "Hamburg2020.pdf" "newtab" %}}hier{{% /staticref %}} einsehen.
+{{% staticref "media/Hamburg2020.pdf" "newtab" %}}hier{{% /staticref %}} einsehen.
 
 Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
