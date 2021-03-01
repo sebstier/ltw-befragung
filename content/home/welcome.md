@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Wahlkampfstudie 2021"
 subtitle: ""
-hero_media: logos_website_sm.png
+hero_media: logos.png
   image_size: contain
   image_position: right
   image_height: '10%'
@@ -13,7 +13,7 @@ hero_media: logos_website_sm.png
 #  columns: '2'
 design:
   background:
-    image: logos_website_sm.png
+    image: logos.png
     image_darken: 0
     image_parallax: false
     image_position: center
