@@ -19,9 +19,14 @@
   weight = 40
   
 [[main]]
+  name = "Datenschutzerklärung"
+  url = "datenschutz"
+  weight = 50
+  
+[[main]]
   name = "Personen"
   url = "people"
-  weight = 50
+  weight = 60
 
 #[[main]]
  # name = "Events"
@@ -37,9 +42,9 @@
 [[main]]
   name = "Kontakt"
   url = "contact"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Ergebnisse"
   url = "ergebnisse"
-  weight = 70
+  weight = 90
