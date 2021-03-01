@@ -24,4 +24,4 @@ advanced:
   css_class:
 ---
 
-Herzlich willkommen auf der Projekt-Webseite der Wahlkampfstudie 2021. Hier finden Sie weiterführende Informationen, z.B. häufig gestellte Fragen zu der Befragung und Informationen zu den Projektverantwortlichen.
+Herzlich willkommen auf unserer Projekt-Webseite. Hier finden Sie weiterführende Informationen zu der Befragung und Informationen zu den Projektverantwortlichen.
