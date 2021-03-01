@@ -5,13 +5,12 @@ weight: 10  # Order that this section will appear.
 title: "Wahlkampfstudie 2021"
 subtitle: ""
 hero_media: logos_website_sm.png
-view: 2
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
   image_size: contain
   image_position: right
   image_height: '10%'
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 advanced:
   css_style:
   css_class:
