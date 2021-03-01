@@ -4,12 +4,13 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Wahlkampfstudie 2021"
 subtitle: ""
-hero_media: logos_website_sm.png?nf_resize=smartcrop&w=100&h=100
+hero_media: logos_website_sm.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   image_size: contain
   image_position: right
+  image_height: 100
 advanced:
   css_style:
   css_class:
