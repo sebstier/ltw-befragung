@@ -8,6 +8,8 @@ hero_media: logos_website.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
+  image_size: contain
+  image_position: right
 advanced:
   css_style:
   css_class:
