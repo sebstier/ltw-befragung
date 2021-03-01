@@ -11,7 +11,7 @@ design:
   columns: '2'
   image_size: contain
   image_position: right
-  image_height: '50%'
+  image_height: '10%'
 advanced:
   css_style:
   css_class:
