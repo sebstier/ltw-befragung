@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Jürgen Maier ist ...
+Jürgen Maier ist Professor für Politische Kommunikation an der Universität Koblenz-Landau. Er forscht u.a. zu Inhalten und Wirkungen von Wahlkampfkommunikation, politischem Wissen, politischen Einstellungen und Wahlverhalten. 
 
 Weitere Informationen zu Jürgen Maier finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier/maier" target="_blank">hier</a>.
 
