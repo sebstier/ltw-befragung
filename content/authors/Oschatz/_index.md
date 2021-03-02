@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Corinna Oschatz ist ...
+Corinna Oschatz ist Akademische Rätin am Institut für Kommunikationspsychologie und Medienpädagogik der Universität Koblenz-Landau. Ihre Promotion im Fach Kommunikationswissenschaft hat sie 2016 an der Universität Mainz abgeschlossen. Ihre Forschungsschwerpunkte liegen im Bereich der strategischen politischen Kommunikation und der Persuasionsforschung.
 
 Weitere Informationen zu Corinna Oschatz finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/oschatz-corinna" target="_blank">hier</a>.
 
