@@ -42,7 +42,7 @@ Der Schutz Ihrer persönlichen Daten ist für uns besonders wichtig. In dieser D
 
 **Zweck der Studie**
 
-Wir befragen Sie zum Zweck der Sozialforschung im Rahmen eines von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts zur Kampagnenkommunikation in deutschen Landtagswahlen. Verantwortlich für die Studie sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Koblenz-Landau) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Neben Befragungen von Kandidatinnen und Kandidaten in Landtagswahlen untersuchen wir die politische Kommunikation in den sozialen Medien Facebook, Twitter und Instagram.
+Wir befragen Sie zum Zweck der Sozialforschung im Rahmen eines von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts zur Kampagnenkommunikation in deutschen Landtagswahlen. Verantwortlich für die Studie sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Koblenz-Landau) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Zusammen mit Befragungen von Kandidatinnen und Kandidaten in Landtagswahlen untersuchen wir die politische Kommunikation in den sozialen Medien Facebook, Twitter und Instagram.
 
 **Herkunft Ihrer persönlichen Kontaktinformationen**
 
@@ -79,11 +79,9 @@ Im Hinblick auf Ihre personenbezogenen Daten können gegenüber der Universität
 
 Außerdem haben Sie ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde. Sie können Ihre Beschwerde sowohl bei der Aufsichtsbehörde im Bundesland Ihres Wohnsitzes oder Arbeitsplatzes als auch bei der für den Verantwortlichen im jeweiligen Bundesland zuständigen Aufsichtsbehörde erheben.
 
-**Kontaktperson**
+**Beauftragte für Datenschutz**
 
 Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
-
-**Beauftragte für Datenschutz**
 
 > Dr. Susanne Weis
 > 
