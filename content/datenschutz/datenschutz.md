@@ -65,7 +65,6 @@ Die Teilnahme an der Kandidatenstudie ist freiwillig. Die Beendigung bzw. das Ab
 Für den Umgang mit Ihren personenbezogenen Daten und den Angaben, die Sie in der Befragung gemacht haben, bedeutet dies konkret:
 
 * Sie können sich sicher sein, dass die Universität Koblenz-Landau und GESIS Ihre personenbezogenen Daten nicht an Dritte weitergeben.
-
 * Die bei der Befragung erhobenen Antwortdaten werden von den Projektbeteiligten getrennt von Ihren personenbezogenen Daten gespeichert.
 
 **Ihre Rechte**
