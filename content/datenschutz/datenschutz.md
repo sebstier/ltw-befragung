@@ -28,11 +28,19 @@ Der Schutz Ihrer persönlichen Daten ist für uns besonders wichtig. In dieser D
 
 **Verantwortlich für die Verarbeitung Ihrer Daten ist:**
 
-Prof. Dr. Jürgen Maier
-Universität Koblenz-Landau
-Fortstraße 7
-76829 Landau
-https://www.uni-koblenz-landau.de
+> Prof. Dr. Jürgen Maier
+> 
+> Universität Koblenz-Landau
+> 
+> Fortstraße 7
+> 
+> 76829 Landau
+> 
+> E-Mail: maierj@uni-landau.de 
+> 
+> Tel.: 06341-28038419
+> 
+> https://www.uni-koblenz-landau.de
 
 **Zweck der Studie**
 
@@ -77,10 +85,17 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 **Beauftragte für Datenschutz**
 
 > Dr. Susanne Weis
+> 
 > Universität Koblenz-Landau
+> 
 > Zentrum für Methoden, Diagnostik und Evaluation
-> Westring - P 102, 76289 Landau
+> 
+> Westring - P 102
+> 
+> 76289 Landau
+> 
 > E-Mail: weis@uni-landau.de
+> 
 > Tel: 06341-28031368
 
 
