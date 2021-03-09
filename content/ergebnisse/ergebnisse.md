@@ -24,7 +24,26 @@ design:
   #  text_color_light: true
 ---
 
+Hier finden Sie Forschungsergebnisse rund um bereits durchgeführte Kandidatenbefragungen und Kandidatenbefragungen, die wir bei den Landtagswahlen 2021 durchführen.
+
+**Abgeschlossene Studien**
+
+* Kandidatenbefragung zur Bürgerschaftswahl 2020 in Hamburg: {{% staticref "media/Hamburg2020.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
+
+**Laufende Studien**
+* Kandidatenbefragung zur Landtagswahl 2021 in Baden-Württemberg
+* Kandidatenbefragung zur Landtagswahl 2021 in Rheinland-Pfalz
+
+**In Planung befindliche Studien**
+* Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
+* Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
+* Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
+* Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
+
+
+
+
 Wir haben bereits eine ähnliche Befragung von Kandidatinnen und Kandidaten zur Bürgerschaftswahl in Hamburg 2020 durchgeführt. Die Ergebnisse können Sie 
-{{% staticref "media/Hamburg2020.pdf" "newtab" %}}hier{{% /staticref %}} einsehen.
+ einsehen.
 
 Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
