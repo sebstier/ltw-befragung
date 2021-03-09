@@ -32,4 +32,5 @@ Auf unserer Webseite finden Sie Informationen rund um die Befragung der Kandidat
 
 {{< figure src="logos_quer.png" caption="A caption" >}}
 
+![](/static/logos_quer.png)
 
