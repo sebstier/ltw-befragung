@@ -13,7 +13,7 @@ design:
   columns: '1'
 #design:
  # background:
-  image: logos_quer.png
+  # image: logos_quer.png
   #  image_darken: 0
   #  image_parallax: false
   #  image_position: center
@@ -25,4 +25,5 @@ advanced:
 
 ---
 
-trest
+{{< figure src="logos_quer.png" >}}
+
