@@ -96,6 +96,6 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 > 
 > Tel: 06341-28031368 
 
-\
+<br></p>
 
 **Wir danken Ihnen für Ihre Mitwirkung und Ihr Vertrauen in unsere Arbeit!**
