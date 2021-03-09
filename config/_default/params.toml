@@ -89,7 +89,7 @@ phone = "06341-28038419"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Universität Koblenz-Landau, Institut für Sozialwissenschaften, Abteilung Politikwissenschaft, Kaufhausgasse 9", city = "Landau", region = "", postcode = "76829", country = "Deutschland", country_code = "DE"}
+address = {street = "Universität Koblenz-Landau\ Institut für Sozialwissenschaften\ Abteilung Politikwissenschaft\ Kaufhausgasse 9", city = "Landau", region = "", postcode = "76829", country = "Deutschland", country_code = "DE"}
 
 
 # Geographic coordinates
