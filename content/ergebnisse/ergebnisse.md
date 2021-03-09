@@ -24,7 +24,7 @@ design:
   #  text_color_light: true
 ---
 
-Hier finden Sie Forschungsergebnisse rund um bereits durchgeführte Kandidatenbefragungen und Kandidatenbefragungen, die wir bei den Landtagswahlen 2021 durchführen.
+Hier finden Sie Informationen und Forschungsergebnisse zu bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen.
 
 **Abgeschlossene Studien**
 
@@ -40,10 +40,5 @@ Hier finden Sie Forschungsergebnisse rund um bereits durchgeführte Kandidatenbe
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
 * Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
 
-
-
-
-Wir haben bereits eine ähnliche Befragung von Kandidatinnen und Kandidaten zur Bürgerschaftswahl in Hamburg 2020 durchgeführt. Die Ergebnisse können Sie 
- einsehen.
 
 Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
