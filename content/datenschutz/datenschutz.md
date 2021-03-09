@@ -63,17 +63,21 @@ Die Teilnahme an der Kandidatenstudie ist freiwillig. Die Beendigung bzw. das Ab
 **Umgang mit den erhobenen Daten**
 
 Für den Umgang mit Ihren personenbezogenen Daten und den Angaben, die Sie in der Befragung gemacht haben, bedeutet dies konkret:
-•	Sie können sich sicher sein, dass die Universität Koblenz-Landau und GESIS Ihre personenbezogenen Daten nicht an Dritte weitergeben.
-•	Die bei der Befragung erhobenen Antwortdaten werden von den Projektbeteiligten getrennt von Ihren personenbezogenen Daten gespeichert.
+
+* Sie können sich sicher sein, dass die Universität Koblenz-Landau und GESIS Ihre personenbezogenen Daten nicht an Dritte weitergeben.
+
+* Die bei der Befragung erhobenen Antwortdaten werden von den Projektbeteiligten getrennt von Ihren personenbezogenen Daten gespeichert.
 
 **Ihre Rechte**
 
 Im Hinblick auf Ihre personenbezogenen Daten können gegenüber der Universität Koblenz-Landau und GESIS jederzeit die folgenden Rechte geltend machen:
-•	Auskunftsrecht
-•	Recht auf Berichtigung
-•	Recht auf Löschung Ihrer personenbezogenen Daten („Recht auf Vergessenwerden“)
-•	Recht auf Einschränkung der Verarbeitung
-•	Recht auf Datenübertragbarkeit
+
+*	Auskunftsrecht
+*	Recht auf Berichtigung
+*	Recht auf Löschung Ihrer personenbezogenen Daten („Recht auf Vergessenwerden“)
+*	Recht auf Einschränkung der Verarbeitung
+*	Recht auf Datenübertragbarkeit
+
 Außerdem haben Sie ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde. Sie können Ihre Beschwerde sowohl bei der Aufsichtsbehörde im Bundesland Ihres Wohnsitzes oder Arbeitsplatzes als auch bei der für den Verantwortlichen im jeweiligen Bundesland zuständigen Aufsichtsbehörde erheben.
 
 **Kontaktperson**
