@@ -23,15 +23,6 @@ design:
   #  color: 'navy'
   #  text_color_light: true
 ---
- 	Prof. Dr. Jürgen Maier
-Institut für Sozialwissenschaften
-Abteilung Politikwissenschaft
-E-Mail: maierj@uni-landau.de
-
-
-
-- FAQ / Antworten auf häufig gestellte Fragen zur Kandidatenstudie -
-
 
 **Wer führt die Studie durch?**
 
