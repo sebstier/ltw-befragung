@@ -8,9 +8,9 @@ hero_media: logos_quer.png
   image_size: contain
   image_position: bottom
  # image_height: '10%'
-#design:
+design:
 #  # Choose how many columns the section has. Valid values: 1 or 2.
-#  columns: '2'
+  columns: '1'
 #design:
  # background:
   #  image: logos_quer.png
