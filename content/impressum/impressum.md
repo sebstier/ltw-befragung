@@ -26,17 +26,17 @@ design:
 
 **Inhaltlich verantwortlich**
 
-Dr. Sebastian Stier
-
-GESIS – Leibniz Institute for the Social Sciences
-
-Department Computational Social Science
-
-Unter Sachsenhausen 6-8
-
-50667 Köln
-
-sebastian.stier@gesis.org
+> Dr. Sebastian Stier
+> 
+> GESIS – Leibniz Institute for the Social Sciences
+> 
+> Department Computational Social Science
+> 
+> Unter Sachsenhausen 6-8
+> 
+> 50667 Köln
+> 
+> sebastian.stier@gesis.org
 
 **Haftungshinweis**
 
