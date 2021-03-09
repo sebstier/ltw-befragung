@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Wahlkampfstudie 2021"
 subtitle: ""
-#hero_media: logos_quer.png
+#hero_media: logos_long.png
  # image_size: contain
  # image_position: bottom
  # image_height: '10%'
@@ -29,5 +29,5 @@ Wie führen Kandidatinnen und Kandidaten Wahlkämpfe? Die Wahlkampfstudie 2021 w
 Auf unserer Webseite finden Sie Informationen rund um die Befragung der Kandidatinnen und Kandidaten, das hinter dem Forschungsprojekt stehende Team sowie den Forschungsergebnissen.
 
 
-![](/media/logos_quer.png)
+![](/media/logos_long.png)
 
