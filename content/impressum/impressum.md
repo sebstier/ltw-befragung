@@ -28,9 +28,9 @@ design:
 
 > Dr. Sebastian Stier
 > 
-> GESIS – Leibniz Institute for the Social Sciences
+> GESIS – Leibniz-Institut für Sozialwissenschaften
 > 
-> Department Computational Social Science
+> Abteilung Computational Social Science
 > 
 > Unter Sachsenhausen 6-8
 > 
