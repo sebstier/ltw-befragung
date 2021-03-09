@@ -29,5 +29,5 @@ Wie führen Kandidatinnen und Kandidaten Wahlkämpfe? Die Wahlkampfstudie 2021 w
 Auf unserer Webseite finden Sie Informationen rund um die Befragung der Kandidatinnen und Kandidaten, das hinter dem Forschungsprojekt stehende Team sowie den Forschungsergebnissen.
 
 
-[test](/static/logos_quer.png)
+![](/static/media/logos_quer.png)
 
