@@ -11,14 +11,6 @@ subtitle: ""
 design:
 #  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-#design:
- # background:
-  # image: logos_quer.png
-  #  image_darken: 0
-  #  image_parallax: false
-  #  image_position: center
-  #  image_size: contain  
-  #  text_color_light: true
 advanced:
   css_style:
   css_class:
