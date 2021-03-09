@@ -5,8 +5,8 @@ weight: 10  # Order that this section will appear.
 title: "Wahlkampfstudie 2021"
 subtitle: ""
 hero_media: logos_quer.png
- # image_size: contain
- # image_position: right
+  image_size: contain
+  image_position: bottom
  # image_height: '10%'
 #design:
 #  # Choose how many columns the section has. Valid values: 1 or 2.
