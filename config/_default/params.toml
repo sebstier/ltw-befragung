@@ -85,7 +85,7 @@ show_related = {false = true, project = false, publication = false, talk = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "maierj@uni-landau.de"
-phone = "06341 280 38 419"
+phone = "06341-28038419"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -246,8 +246,8 @@ plugins_js  = []
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
   provider = ""
-  api_key = ""
-  zoom = 15
+ # api_key = ""
+ # zoom = 15
 
 ############################
 ## Marketing
