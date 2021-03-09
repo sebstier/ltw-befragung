@@ -9,7 +9,7 @@ headless: true
 weight: 40
 
 # Section title
-title: "Antworten auf häufig gestellte Fragen / FAQ"
+title: "Impressum"
 
 # Section subtitle
 subtitle:
