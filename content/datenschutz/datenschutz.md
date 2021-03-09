@@ -94,6 +94,8 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 > 
 > E-Mail: weis@uni-landau.de
 > 
-> Tel: 06341-28031368 \
+> Tel: 06341-28031368 
+
+\
 
 **Wir danken Ihnen für Ihre Mitwirkung und Ihr Vertrauen in unsere Arbeit!**
