@@ -76,11 +76,12 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 
 **Beauftragte für Datenschutz**
 
-Dr. Susanne Weis
-Universität Koblenz-Landau
-Zentrum für Methoden, Diagnostik und Evaluation
-Westring - P 102, 76289 Landau
-E-Mail: weis@uni-landau.de
-Tel: 06341-28031368
+> Dr. Susanne Weis
+> Universität Koblenz-Landau
+> Zentrum für Methoden, Diagnostik und Evaluation
+> Westring - P 102, 76289 Landau
+> E-Mail: weis@uni-landau.de
+> Tel: 06341-28031368
 
-Wir danken Ihnen für Ihre Mitwirkung und Ihr Vertrauen in unsere Arbeit!
+
+**Wir danken Ihnen für Ihre Mitwirkung und Ihr Vertrauen in unsere Arbeit!**
