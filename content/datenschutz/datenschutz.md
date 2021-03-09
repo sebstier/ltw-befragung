@@ -39,8 +39,6 @@ Der Schutz Ihrer persönlichen Daten ist für uns besonders wichtig. In dieser D
 > E-Mail: maierj@uni-landau.de 
 > 
 > Tel.: 06341-28038419
-> 
-> https://www.uni-koblenz-landau.de
 
 **Zweck der Studie**
 
@@ -96,7 +94,6 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 > 
 > E-Mail: weis@uni-landau.de
 > 
-> Tel: 06341-28031368
-
+> Tel: 06341-28031368 \
 
 **Wir danken Ihnen für Ihre Mitwirkung und Ihr Vertrauen in unsere Arbeit!**
