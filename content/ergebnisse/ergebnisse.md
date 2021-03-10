@@ -24,7 +24,7 @@ design:
   #  text_color_light: true
 ---
 
-Hier finden Sie Informationen und Forschungsergebnisse zu bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen.
+Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen.
 
 **Abgeschlossene Studien**
 
