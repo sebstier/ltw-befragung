@@ -38,7 +38,7 @@ Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und 
 * Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
-* Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
+* Kandidatenbefragung zur Landtagswahl 2021 in Thüringen
 
 
 Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
