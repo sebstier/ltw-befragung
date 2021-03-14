@@ -31,7 +31,7 @@ Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informat
 
 **Wer hat die Studie in Auftrag gegeben?**
 
-Die Studie hat keinen Auftraggeber. Die Überlegung, Kandidatinnen und Kandidaten in Landtagswahlen zu befragen, entspringt allein aus dem Forschungsinteresse der an dem Projekt beteiligten Forscherinnen und Forscher. Die Befragung dient ausschließlich wissenschaftlichen Zwecken. Die Qualität der hinter dem Projekt stehenden wissenschaftlichen Fragestellungen wurden vorab von unabhängigen Fachgutachtern in einem anonymisierten Begutachtungsverfahren geprüft. Basierend auf der Einschätzung der Gutachter hat die Deutsche Forschungsgemeinschaft DFG die Finanzierung der Studie übernommen.
+Die Studie hat keinen Auftraggeber. Die Überlegung, Kandidatinnen und Kandidaten in Landtagswahlen zu befragen, entspringt allein aus dem Forschungsinteresse der an dem Projekt beteiligten Forscherinnen und Forscher. Die Befragung dient ausschließlich wissenschaftlichen Zwecken. Die Qualität der hinter dem Projekt stehenden wissenschaftlichen Fragestellungen wurde vorab von unabhängigen Fachgutachtern in einem anonymisierten Begutachtungsverfahren geprüft. Basierend auf der Einschätzung der Gutachter hat die Deutsche Forschungsgemeinschaft (DFG) die Finanzierung der Studie übernommen.
 
 **Warum ist die Teilnahme an der Befragung wichtig?**
 
