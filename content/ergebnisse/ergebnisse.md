@@ -24,7 +24,7 @@ design:
   #  text_color_light: true
 ---
 
-Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen.
+Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen. Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
 
 **Abgeschlossene Studien**
 
@@ -40,5 +40,3 @@ Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und 
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
 * Kandidatenbefragung zur Landtagswahl 2021 in Thüringen
 
-
-Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
