@@ -29,13 +29,13 @@ Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und 
 **Abgeschlossene Studien**
 
 * Kandidatenbefragung zur Bürgerschaftswahl 2020 in Hamburg: {{% staticref "media/Hamburg2020.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-
-**Laufende Studien**
 * Kandidatenbefragung zur Landtagswahl 2021 in Baden-Württemberg
 * Kandidatenbefragung zur Landtagswahl 2021 in Rheinland-Pfalz
 
-**In Planung befindliche Studien**
+**Laufende Studien**
 * Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
+
+**In Planung befindliche Studien**
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
 * Kandidatenbefragung zur Landtagswahl 2021 in Thüringen
