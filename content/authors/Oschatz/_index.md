@@ -40,7 +40,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:oschatz@uni-landau.de'
+  link: 'mailto:c.m.oschatz@uva.nl'
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
