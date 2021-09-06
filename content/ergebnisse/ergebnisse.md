@@ -38,5 +38,4 @@ Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und 
 **In Planung befindliche Studien**
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern
-* Kandidatenbefragung zur Landtagswahl 2021 in Thüringen
 
