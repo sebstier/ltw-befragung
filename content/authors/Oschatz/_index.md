@@ -10,8 +10,8 @@ role: Projektteam
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Koblenz-Landau
-  url: "https://www.uni-koblenz-landau.de"
+- name: Universität Amsterdam
+  url: "https://www.feb.uva.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
