@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "oschatz@uni-landau.de"
+email: "c.m.oschatz@uva.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Corinna Oschatz ist Akademische Rätin am Institut für Kommunikationspsychologie und Medienpädagogik der Universität Koblenz-Landau. Ihre Promotion im Fach Kommunikationswissenschaft hat sie 2016 an der Universität Mainz abgeschlossen. Ihre Forschungsschwerpunkte liegen im Bereich der strategischen politischen Kommunikation und der Persuasionsforschung.
+Corinna Oschatz ist Assistenprofessorin an der Amsterdam School of Communication Research der Universität Amsterdam. Ihre Promotion im Fach Kommunikationswissenschaft hat sie 2016 an der Universität Mainz abgeschlossen. Ihre Forschungsschwerpunkte liegen im Bereich der strategischen politischen Kommunikation und der Persuasionsforschung.
 
-Weitere Informationen zu Corinna Oschatz finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/oschatz-corinna" target="_blank">hier</a>.
+Weitere Informationen zu Corinna Oschatz finden Sie <a href="https://www.feb.uva.nl/en/profile/o/s/c.m.oschatz/c.m.oschatz.html?origin=FedfLwcOQvudaYuxtk0OMA" target="_blank">hier</a>.
 
