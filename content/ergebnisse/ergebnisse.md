@@ -24,7 +24,7 @@ design:
   #  text_color_light: true
 ---
 
-Hier finden Sie Informationen zu von uns bereits durchgeführten, laufenden und geplanten Kandidatenbefragungen. Ende des Jahres 2021 werden wir auf dieser Webseite die Ergebnisse unserer Befragungen zu den Landtagswahlen 2021 veröffentlichen.
+Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragungen. In den kommenden Monaten werden wir auf dieser Webseite die Ergebnisberichte für alle Wahlen veröffentlichen.
 
 **Abgeschlossene Studien**
 
