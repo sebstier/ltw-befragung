@@ -29,7 +29,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 **Abgeschlossene Studien**
 
 * Kandidatenbefragung zur Bürgerschaftswahl 2020 in Hamburg: {{% staticref "media/Hamburg2020.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-* Kandidatenbefragung zur Landtagswahl 2021 in Rheinland-Pfalz: {{% staticref "media/Kandidatenbefragung_Rheinland-Pfalz_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
+* Kandidatenbefragung zur Landtagswahl 2021 in Rheinland-Pfalz: {{% staticref "media/RLP_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2021 in Baden-Württemberg
 * Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
