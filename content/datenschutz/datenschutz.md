@@ -42,7 +42,7 @@ Der Schutz Ihrer persönlichen Daten ist für uns besonders wichtig. In dieser D
 
 **Zweck der Studie**
 
-Wir befragen Sie zum Zweck der Sozialforschung im Rahmen eines von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts zur Kampagnenkommunikation in deutschen Landtagswahlen. Verantwortlich für die Studie sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Koblenz-Landau) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Zusammen mit Befragungen von Kandidatinnen und Kandidaten in Landtagswahlen untersuchen wir die politische Kommunikation in den sozialen Medien Facebook, Twitter und Instagram.
+Wir befragen Sie zum Zweck der Sozialforschung im Rahmen eines von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts zur Kampagnenkommunikation in deutschen Landtagswahlen. Verantwortlich für die Studie sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Amsterdam) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Zusammen mit Befragungen von Kandidatinnen und Kandidaten in Landtagswahlen untersuchen wir die politische Kommunikation in den sozialen Medien Facebook, Twitter und Instagram.
 
 **Herkunft Ihrer persönlichen Kontaktinformationen**
 
@@ -50,11 +50,11 @@ Für die Durchführung der Studie greifen wir auf persönliche Informationen (Na
 
 **Wer Zugriff auf Ihre personenbezogenen Daten hat**
 
-Abgesehen von den Projektbeteiligten an der Universität Koblenz-Landau und bei GESIS erhält kein Dritter personenbezogene Daten, die Befragte direkt identifizieren (Name, Adresse, E-Mailadresse). Die Antwortdaten werden ohne direkte Identifikatoren gespeichert und ausgewertet (Pseudonymisierung). Zu Forschungszwecken können die Antwortdaten mit weiteren öffentlich zugänglichen Informationen auf Individualebene verknüpft werden, beispielsweise der Kampagnenkommunikation in sozialen Medien. Das Zusammenspielen sowie die anschließende erneute Pseudonymisierung der zusammengeführten Daten erfolgt durch die Projektverantwortlichen unter Wahrung besonderer Sicherheitsmaßnahmen.
+Abgesehen von den Projektbeteiligten an der Universität Koblenz-Landau, der Universität Amsterdam und bei GESIS erhält kein Dritter personenbezogene Daten, die Befragte direkt identifizieren (Name, Adresse, E-Mailadresse). Die Antwortdaten werden ohne direkte Identifikatoren gespeichert und ausgewertet (Pseudonymisierung). Zu Forschungszwecken können die Antwortdaten mit weiteren öffentlich zugänglichen Informationen auf Individualebene verknüpft werden, beispielsweise der Kampagnenkommunikation in sozialen Medien. Das Zusammenspielen sowie die anschließende erneute Pseudonymisierung der zusammengeführten Daten erfolgt durch die Projektverantwortlichen unter Wahrung besonderer Sicherheitsmaßnahmen.
 
 Nach der Nutzung der Umfragedaten im Projekt können diese für die weitere akademische Forschung und Lehre mit schriftlicher Genehmigung der Projektverantwortlichen zugänglich gemacht werden. Eine Weitergabe von Daten, die die direkte Identifikation Ihrer Person ermöglichen, ist dabei ausgeschlossen. Nutzerinnen und Nutzern ist die Re-Identifikation der Befragten über Merkmalskombinationen im Datensatz untersagt. Zudem müssen die Datennutzenden zusichern, dass die von ihnen veröffentlichten Analyseergebnisse keine Rückschlüsse auf Einzelpersonen erlauben. 
 
-Die Universität Koblenz-Landau und GESIS arbeiten nach den Vorschriften der EU-Datenschutz-Grundverordnung und allen anderen in Deutschland gültigen datenschutzrechtlichen Bestimmungen.
+Die Universität Koblenz-Landau, die Universität Amsterdam und GESIS arbeiten nach den Vorschriften der EU-Datenschutz-Grundverordnung und allen anderen in Deutschland gültigen datenschutzrechtlichen Bestimmungen.
 
 **Freiwilligkeit der Teilnahme**
 
@@ -64,12 +64,12 @@ Die Teilnahme an der Kandidatenstudie ist freiwillig. Die Beendigung bzw. das Ab
 
 Für den Umgang mit Ihren personenbezogenen Daten und den Angaben, die Sie in der Befragung gemacht haben, bedeutet dies konkret:
 
-* Sie können sich sicher sein, dass die Universität Koblenz-Landau und GESIS Ihre personenbezogenen Daten nicht an Dritte weitergeben.
+* Sie können sich sicher sein, dass die Universität Koblenz-Landau, die Universität Amsterdam und GESIS Ihre personenbezogenen Daten nicht an Dritte weitergeben.
 * Die bei der Befragung erhobenen Antwortdaten werden von den Projektbeteiligten getrennt von Ihren personenbezogenen Daten gespeichert.
 
 **Ihre Rechte**
 
-Im Hinblick auf Ihre personenbezogenen Daten können gegenüber der Universität Koblenz-Landau und GESIS jederzeit die folgenden Rechte geltend machen:
+Im Hinblick auf Ihre personenbezogenen Daten können gegenüber der Universität Koblenz-Landau, der Universität Amsterdam und GESIS jederzeit die folgenden Rechte geltend machen:
 
 *	Auskunftsrecht
 *	Recht auf Berichtigung
