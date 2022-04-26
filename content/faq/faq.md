@@ -80,7 +80,7 @@ Ausgewählte <a href="https://wahlkampfstudie.org/ergebnisse" target="_blank">Be
 
 **Gibt es schon Ergebnisse von Kandidatenstudien für andere Landtagswahlen damit ich mir ein Bild machen kann, wie die Daten analysiert werden?**
 
-Ergebnisse der vorher von uns durchgeführten Studien können Sie <a href="/ergebnisse" target="_blank">hier</a> einsehen.
+Ergebnisse der bereits von uns durchgeführten Studien können Sie <a href="/ergebnisse" target="_blank">hier</a> einsehen.
 
 **Wie kann ich den Studienleiter erreichen?**
 
