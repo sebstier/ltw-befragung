@@ -26,7 +26,7 @@ design:
 
 **Wer führt die Studie durch?**
 
-Die Studie ist ein durch die Deutsche Forschungsgemeinschaft (<a href="https://www.dfg.de" target="_blank">DFG</a>) gefördertes Forschungsprojekt. Verantwortlich für die Durchführung des Projekts sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Koblenz-Landau) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Die Durchführung der Befragung von Kandidatinnen und Kandidaten, die bei den Landtagswahlen des Jahres 2021 antreten, obliegt Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der Universität Koblenz-Landau. Format und Inhalt der Befragung sind mit allen am DFG-Projekt beteiligten Primärforschern abgestimmt.
+Die Studie ist ein durch die Deutsche Forschungsgemeinschaft (<a href="https://www.dfg.de" target="_blank">DFG</a>) gefördertes Forschungsprojekt. Verantwortlich für die Durchführung des Projekts sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Amsterdam) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Die Durchführung der Befragung von Kandidatinnen und Kandidaten, die bei den Landtagswahlen der Jahre 2021 und 2022 antreten, obliegt Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der Universität Koblenz-Landau. Format und Inhalt der Befragung sind mit allen am DFG-Projekt beteiligten Primärforschern abgestimmt.
 Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informationen zu den Forschungsfeldern und Publikationen von Prof. Maier können Sie auf seiner <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier/maier" target="_blank">Instituts-Webseite</a> einsehen. Wenn Sie Fragen zur Landtagswahlstudie 2021 haben, können Sie jederzeit gerne per E-Mail (maierj@uni-landau.de) Kontakt zu Prof. Maier aufnehmen.
 
 **Wer hat die Studie in Auftrag gegeben?**
@@ -35,7 +35,7 @@ Die Studie hat keinen Auftraggeber. Die Überlegung, Kandidatinnen und Kandidate
 
 **Warum ist die Teilnahme an der Befragung wichtig?**
 
-Ziel der Untersuchung ist es, Einblicke in die Wahlkampfführung von Kandidatinnen und Kandidaten auf Landesebene zu erhalten. Dieses Feld wurde in der bisherigen Forschung weitgehend vernachlässigt. Mit der Wahlkampfstudie 2021 soll die bestehende Forschungslücke ein Stück weit geschlossen werden. Eine Besonderheit der Studie ist es, über den Wahlkampf aus der Perspektive der Kandidatinnen und Kandidaten zu erfahren (und nicht etwa durch eine Auswertung von Kampagnenmaterialien oder Medienberichten). Die Befragungsergebnisse sind aber nur dann aussagekräftig, wenn sich möglichst viele Kandidatinnen und Kandidaten beteiligen – unabhängig davon, für welche Partei oder Liste sie angetreten sind oder ob es ihnen gelungen ist, ein Mandat zu erringen.
+Ziel der Untersuchung ist es, Einblicke in die Wahlkampfführung von Kandidatinnen und Kandidaten auf Landesebene zu erhalten. Dieses Feld wurde in der bisherigen Forschung weitgehend vernachlässigt. Mit der Wahlkampfstudie soll die bestehende Forschungslücke ein Stück weit geschlossen werden. Eine Besonderheit der Studie ist es, über den Wahlkampf aus der Perspektive der Kandidatinnen und Kandidaten zu erfahren (und nicht etwa durch eine Auswertung von Kampagnenmaterialien oder Medienberichten). Die Befragungsergebnisse sind aber nur dann aussagekräftig, wenn sich möglichst viele Kandidatinnen und Kandidaten beteiligen – unabhängig davon, für welche Partei oder Liste sie angetreten sind oder ob es ihnen gelungen ist, ein Mandat zu erringen.
 
 **Ist die Umfrage für mich überhaupt relevant, wenn ich keine Aussicht auf einen Sitz im Landtag hatte?**
  
@@ -80,7 +80,7 @@ Ausgewählte <a href="https://wahlkampfstudie.org/ergebnisse" target="_blank">Be
 
 **Gibt es schon Ergebnisse von Kandidatenstudien für andere Landtagswahlen damit ich mir ein Bild machen kann, wie die Daten analysiert werden?**
 
-Ergebnisse einer Kandidatenstudie, die im Rahmen der Hamburger Bürgerschaftswahl 2020 durchgeführt wurde, können Sie {{% staticref "media/Hamburg2020.pdf" "newtab" %}}hier{{% /staticref %}} einsehen.
+Ergebnisse der vorher von uns durchgeführten Studien können Sie <a href="/ergebnisse" target="_blank">hier</a> einsehen.
 
 **Wie kann ich den Studienleiter erreichen?**
 
