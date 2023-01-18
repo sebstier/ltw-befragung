@@ -26,8 +26,8 @@ design:
 
 **Wer führt die Studie durch?**
 
-Die Studie ist ein durch die Deutsche Forschungsgemeinschaft (<a href="https://www.dfg.de" target="_blank">DFG</a>) gefördertes Forschungsprojekt. Verantwortlich für die Durchführung des Projekts sind Professor Dr. Jürgen Maier (Universität Koblenz-Landau), Dr. Corinna Oschatz (Universität Amsterdam) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Die Durchführung der Befragung von Kandidatinnen und Kandidaten, die bei den Landtagswahlen der Jahre 2021 und 2022 antreten, obliegt Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der Universität Koblenz-Landau. Format und Inhalt der Befragung sind mit allen am DFG-Projekt beteiligten Primärforschern abgestimmt.
-Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informationen zu den Forschungsfeldern und Publikationen von Prof. Maier können Sie auf seiner <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier/maier" target="_blank">Instituts-Webseite</a> einsehen. Wenn Sie Fragen zur Landtagswahlstudie 2021 haben, können Sie jederzeit gerne per E-Mail (maierj@uni-landau.de) Kontakt zu Prof. Maier aufnehmen.
+Die Studie ist ein durch die Deutsche Forschungsgemeinschaft (<a href="https://www.dfg.de" target="_blank">DFG</a>) gefördertes Forschungsprojekt. Verantwortlich für die Durchführung des Projekts sind Professor Dr. Jürgen Maier (RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau), Dr. Corinna Oschatz (Universität Amsterdam) und Dr. Sebastian Stier (GESIS – Leibniz-Institut für Sozialwissenschaften, Köln). Die Durchführung der Befragung von Kandidatinnen und Kandidaten, die bei den Landtagswahlen der Jahre 2021 und 2022 antreten, obliegt Prof. Dr. Jürgen Maier, Professor für Politische Kommunikation an der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau. Format und Inhalt der Befragung sind mit allen am DFG-Projekt beteiligten Primärforschern abgestimmt.
+Prof. Maier arbeitet insbesondere zu Fragen der Wahlkampfkommunikation. Informationen zu den Forschungsfeldern und Publikationen von Prof. Maier können Sie auf seiner <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier/maier" target="_blank">Instituts-Webseite</a> einsehen. Wenn Sie Fragen zur Landtagswahlstudie 2021 haben, können Sie jederzeit gerne per E-Mail (j.maier@rptu.de) Kontakt zu Prof. Maier aufnehmen.
 
 **Wer hat die Studie in Auftrag gegeben?**
 
@@ -48,7 +48,7 @@ Ausgewählte Ergebnisse der Befragung werden in einem Bericht zusammengestellt. 
 
 **Wer hat Zugriff auf die Daten und wie werden sie gesichert?**
 
-Die Daten laufen im Rahmen der Online-Befragung auf einem passwortgeschützen Server der Universität Koblenz-Landau ein. Anschließend werden die Daten auf einem passwortgeschützen Computer der Universität Koblenz-Landau gesichert. Fragebögen, die uns per Post zugehen, werden händisch erfasst; die Daten werden auf einem passwortgeschützen Computer der Universität Koblenz-Landau gesichert. Nach Abschluss der Datenerhebung werden die Daten auf dem Server gelöscht und offline auf passwortgeschützen Computern ausgewertet. Zugriff auf die Daten hat ausschließlich das <a href="https://wahlkampfstudie.org/people" target="_blank"> Projektteam</a>. Gemäß den Empfehlungen der Deutschen Forschungsgemeinschaft werden Daten und Fragebögen intern archiviert, um die Korrektheit der Forschungsergebnisse bei Bedarf nachweisen zu können. Die Datenverarbeitung erfolgt nach den Richtlinien der Datenschutzgrundverordnung (DSGVO) und wurde vorab von einer Ethikkommission geprüft und genehmigt. Sie finden ein übersichtliches <a href="https://wahlkampfstudie.org/datenschutz" target="_blank">Datenschutzblatt</a> auf unserer Projekt-Webseite.
+Die Daten laufen im Rahmen der Online-Befragung auf einem passwortgeschützen Server der Universität Koblenz-Landau ein. Anschließend werden die Daten auf einem passwortgeschützen Computer der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau gesichert. Fragebögen, die uns per Post zugehen, werden händisch erfasst; die Daten werden auf einem passwortgeschützen Computer der Universität Koblenz-Landau gesichert. Nach Abschluss der Datenerhebung werden die Daten auf dem Server gelöscht und offline auf passwortgeschützen Computern ausgewertet. Zugriff auf die Daten hat ausschließlich das <a href="https://wahlkampfstudie.org/people" target="_blank"> Projektteam</a>. Gemäß den Empfehlungen der Deutschen Forschungsgemeinschaft werden Daten und Fragebögen intern archiviert, um die Korrektheit der Forschungsergebnisse bei Bedarf nachweisen zu können. Die Datenverarbeitung erfolgt nach den Richtlinien der Datenschutzgrundverordnung (DSGVO) und wurde vorab von einer Ethikkommission geprüft und genehmigt. Sie finden ein übersichtliches <a href="https://wahlkampfstudie.org/datenschutz" target="_blank">Datenschutzblatt</a> auf unserer Projekt-Webseite.
 
 **Werden die Daten an andere Wissenschaftler weitergegeben?**
 
@@ -84,8 +84,8 @@ Ergebnisse der bereits von uns durchgeführten Studien können Sie <a href="/erg
 
 **Wie kann ich den Studienleiter erreichen?**
 
-Sie können Prof. Dr. Jürgen Maier per E-Mail (maierj@uni-landau.de) oder telefonisch (06341-28038419) erreichen.
+Sie können Prof. Dr. Jürgen Maier per E-Mail (j.maier@rptu.de) oder telefonisch (06341-28038419) erreichen.
 
 **Wer beantwortet mir Fragen, die in diesem Dokument nicht behandelt werden?**
 
-Weitere Fragen beantwortet Ihnen gerne Prof. Dr. Jürgen Maier per E-Mail (maierj@uni-landau.de) oder telefonisch (06341-28038419).
+Weitere Fragen beantwortet Ihnen gerne Prof. Dr. Jürgen Maier per E-Mail (j.maier@rptu.de) oder telefonisch (06341-28038419).
