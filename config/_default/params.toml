@@ -84,12 +84,12 @@ show_related = {false = true, project = false, publication = false, talk = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "maierj@uni-landau.de"
+email = "j.maier@rptu.de"
 phone = "06341-28038419"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Prof. Dr. Jürgen Maier, Universität Koblenz-Landau, Institut für Sozialwissenschaften, Abteilung Politikwissenschaft", city = "Kaufhausgasse 9, 76829 Landau", region = "", postcode = "", country = "Deutschland", country_code = "DE"}
+address = {street = "Prof. Dr. Jürgen Maier, RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, Institut für Sozialwissenschaften, Abteilung Politikwissenschaft", city = "Kaufhausgasse 9, 76829 Landau", region = "", postcode = "", country = "Deutschland", country_code = "DE"}
 
 
 # Geographic coordinates
