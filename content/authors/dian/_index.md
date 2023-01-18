@@ -11,7 +11,7 @@ role: Projektteam
 # Organizations/Affiliations
 organizations:
 - name: RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
-  url: "https://www.uni-koblenz-landau.de"
+  url: "https://rptu.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Mona Dian ist wissenschaftliche Mitarbeiterin am Institut für Politikwissenschaft der PTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau. Im Jahr 2019 hat sie den Master in Soziologie an der Universität Mannheim abgeschlossen. Sie interessiert sich für politische Soziologie und für die Wahlkampfkommunikation von Kandidaten.
+Mona Dian ist wissenschaftliche Mitarbeiterin am Institut für Politikwissenschaft an der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau. Im Jahr 2019 hat sie den Master in Soziologie an der Universität Mannheim abgeschlossen. Sie interessiert sich für politische Soziologie und für die Wahlkampfkommunikation von Kandidaten.
 
 Weitere Informationen zu Mona Dian finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/mona-dian-m-a/mona-dian" target="_blank">hier</a>.
 
