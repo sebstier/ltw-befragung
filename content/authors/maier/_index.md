@@ -10,8 +10,8 @@ role: Projektteam
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Koblenz-Landau
-  url: "https://www.uni-koblenz-landau.de"
+- name: RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
+  url: "https://rptu.de"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -40,7 +40,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maierj@uni-landau.de'
+  link: 'mailto:j.maier@rptu.de'
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Jürgen Maier ist Professor für Politische Kommunikation an der Universität Koblenz-Landau. Er forscht u.a. zu Inhalten und Wirkungen von Wahlkampfkommunikation, politischem Wissen, politischen Einstellungen und Wahlverhalten. 
+Jürgen Maier ist Professor für Politische Kommunikation an der RPTU - Rheinland-Pfälzische Technischen Universität Kaiserslautern-Landau. Er forscht u.a. zu Inhalten und Wirkungen von Wahlkampfkommunikation, politischem Wissen, politischen Einstellungen und Wahlverhalten. 
 
 Weitere Informationen zu Jürgen Maier finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier/maier" target="_blank">hier</a>.
 
