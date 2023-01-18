@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "maierj@uni-landau.de"
+email: "j.maier@rptu.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
