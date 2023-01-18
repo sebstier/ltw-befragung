@@ -10,7 +10,7 @@ role: Projektteam
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Koblenz-Landau
+- name: RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
   url: "https://www.uni-koblenz-landau.de"
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dian@uni-landau.de'
+  link: 'mailto:m.dian@rptu.de'
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dian@uni-landau.de"
+email: "m.dian@rptu.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,7 +68,7 @@ user_groups:
 - Projektteam
 ---
 
-Mona Dian ist wissenschaftliche Mitarbeiterin am Institut für Politikwissenschaft der Universität Koblenz-Landau. Im Jahr 2019 hat sie den Master in Soziologie an der Universität Mannheim abgeschlossen. Sie interessiert sich für politische Soziologie und für die Wahlkampfkommunikation von Kandidaten.
+Mona Dian ist wissenschaftliche Mitarbeiterin am Institut für Politikwissenschaft der PTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau. Im Jahr 2019 hat sie den Master in Soziologie an der Universität Mannheim abgeschlossen. Sie interessiert sich für politische Soziologie und für die Wahlkampfkommunikation von Kandidaten.
 
 Weitere Informationen zu Mona Dian finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/mona-dian-m-a/mona-dian" target="_blank">hier</a>.
 
