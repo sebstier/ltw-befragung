@@ -93,7 +93,7 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 > 
 > 76289 Landau
 > 
-> E-Mail: weis@uni-landau.de
+> E-Mail: susanne.weis@rptu.de
 > 
 > Tel: 06341-28031368 
 
