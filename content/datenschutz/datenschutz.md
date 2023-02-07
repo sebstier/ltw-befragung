@@ -50,7 +50,7 @@ Für die Durchführung der Studie greifen wir auf persönliche Informationen (Na
 
 **Wer Zugriff auf Ihre personenbezogenen Daten hat**
 
-Abgesehen von den Projektbeteiligten an der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, der Universität Amsterdam und bei GESIS erhält kein Dritter personenbezogene Daten, die Befragte direkt identifizieren (Name, Adresse, E-Mailadresse). Die Antwortdaten werden ohne direkte Identifikatoren gespeichert und ausgewertet (Pseudonymisierung). Zu Forschungszwecken können die Antwortdaten mit weiteren öffentlich zugänglichen Informationen auf Individualebene verknüpft werden, beispielsweise der Kampagnenkommunikation in sozialen Medien. Das Zusammenspielen sowie die anschließende erneute Pseudonymisierung der zusammengeführten Daten erfolgt durch die Projektverantwortlichen unter Wahrung besonderer Sicherheitsmaßnahmen.
+Abgesehen von den Projektbeteiligten an der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, der Universität Amsterdam und bei GESIS erhält kein Dritter personenbezogene Daten, die Befragte direkt identifizieren (Name, Adresse, E-Mailadresse). Die Antwortdaten werden ohne direkte Identifikatoren gespeichert und ausgewertet (Pseudonymisierung). Zu Forschungszwecken können die Antwortdaten mit weiteren öffentlich zugänglichen Informationen auf Individualebene verknüpft werden, beispielsweise der Kampagnenkommunikation in sozialen Medien. Wenn Sie an mehreren Befragungen teilnehmen, werden wir die von Ihnen in diesen Befragungen erteilten Antworten für manche Forschungszwecke zusammenspielen. Das Zusammenspielen der Daten erfolgt durch die Projektverantwortlichen unter Wahrung besonderer Sicherheitsmaßnahmen.
 
 Nach der Nutzung der Umfragedaten im Projekt können diese für die weitere akademische Forschung und Lehre mit schriftlicher Genehmigung der Projektverantwortlichen zugänglich gemacht werden. Eine Weitergabe von Daten, die die direkte Identifikation Ihrer Person ermöglichen, ist dabei ausgeschlossen. Nutzerinnen und Nutzern ist die Re-Identifikation der Befragten über Merkmalskombinationen im Datensatz untersagt. Zudem müssen die Datennutzenden zusichern, dass die von ihnen veröffentlichten Analyseergebnisse keine Rückschlüsse auf Einzelpersonen erlauben. 
 
@@ -83,19 +83,19 @@ Außerdem haben Sie ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde.
 
 Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 
-> Dr. Susanne Weis
+> Joachim Stemler
 > 
 > RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
 > 
-> Zentrum für Methoden, Diagnostik und Evaluation
+> Postfach 3049
 > 
-> Westring - P 102
+> 67653 Kaiserslautern
 > 
 > 76289 Landau
 > 
-> E-Mail: susanne.weis@rptu.de
+> E-Mail: datenschutz@uni-kl.de
 > 
-> Tel: 06341-28031368 
+> Tel: 0631-2054434 
 
 <br></p>
 
