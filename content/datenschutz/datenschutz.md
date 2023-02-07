@@ -79,7 +79,7 @@ Im Hinblick auf Ihre personenbezogenen Daten können gegenüber der RPTU - Rhein
 
 Außerdem haben Sie ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde. Sie können Ihre Beschwerde sowohl bei der Aufsichtsbehörde im Bundesland Ihres Wohnsitzes oder Arbeitsplatzes als auch bei der für den Verantwortlichen im jeweiligen Bundesland zuständigen Aufsichtsbehörde erheben.
 
-**Beauftragte für Datenschutz**
+**Beauftragter für Datenschutz**
 
 Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 
