@@ -91,8 +91,6 @@ Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 > 
 > 67653 Kaiserslautern
 > 
-> 76289 Landau
-> 
 > E-Mail: datenschutz@uni-kl.de
 > 
 > Tel: 0631-2054434 
