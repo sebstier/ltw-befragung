@@ -33,7 +33,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2021 in Baden-Württemberg: {{% staticref "media/BaWue_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2021 in Sachsen-Anhalt: {{% staticref "media/Sachsen_Anhalt_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2021 in Mecklenburg-Vorpommern: {{% staticref "media/Mecklenburg-Vorpommern_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-* Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin
+* Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin: {{% staticref "media/Berlin_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2022 im Saarland
 * Kandidatenbefragung zur Landtagswahl 2022 in Schleswig-Holstein
 * Kandidatenbefragung zur Landtagswahl 2022 in Nordrhein-Westfalen
