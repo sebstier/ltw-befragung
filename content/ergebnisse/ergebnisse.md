@@ -37,5 +37,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2022 im Saarland
 * Kandidatenbefragung zur Landtagswahl 2022 in Schleswig-Holstein
 * Kandidatenbefragung zur Landtagswahl 2022 in Nordrhein-Westfalen
+* Kandidatenbefragung zur Landtagswahl 2022 in Niedersachsen
+* Kandidatenbefragung zur Abgeordnetenhauswahl 2023 in Berlin
 
 
