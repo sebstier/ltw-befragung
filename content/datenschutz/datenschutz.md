@@ -83,17 +83,20 @@ Außerdem haben Sie ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde.
 
 Mit allen Fragen und Ersuchen zum Datenschutz können Sie sich wenden an:
 
-> Joachim Stemler
+
+> Ass. jur. Christiane Müller
 > 
 > RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
 > 
+> Campus Kaiserslautern
+>
 > Postfach 3049
 > 
 > 67653 Kaiserslautern
 > 
-> E-Mail: datenschutz@uni-kl.de
+> E-Mail: datenschutz@rptu.de
 > 
-> Tel: 0631-2054434 
+> Tel: 0631 205-5698
 
 <br></p>
 
