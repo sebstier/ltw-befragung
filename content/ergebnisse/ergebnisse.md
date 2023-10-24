@@ -39,5 +39,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2022 in Nordrhein-Westfalen
 * Kandidatenbefragung zur Landtagswahl 2022 in Niedersachsen
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2023 in Berlin
-
+* Kandidatenbefragung zur Bürgerschaftswahl 2023 in Bremen
+* Kandidatenbefragung zur Landtagswahl 2023 in Bayern
+* Kandidatenbefragung zur Landtagswahl 2023 in Hessen
 
