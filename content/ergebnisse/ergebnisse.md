@@ -36,7 +36,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2021 in Berlin: {{% staticref "media/Berlin_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2022 im Saarland: {{% staticref "media/Saarland_2022.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2022 in Schleswig-Holstein: {{% staticref "media/Schleswig_Holstein_2022.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-* Kandidatenbefragung zur Landtagswahl 2022 in Nordrhein-Westfalen
+* Kandidatenbefragung zur Landtagswahl 2022 in Nordrhein-Westfalen: {{% staticref "media/NRW_2022.pdf" "newtab" %}}Ergebnisse{{% /staticref %}} 
 * Kandidatenbefragung zur Landtagswahl 2022 in Niedersachsen
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2023 in Berlin
 * Kandidatenbefragung zur Bürgerschaftswahl 2023 in Bremen
