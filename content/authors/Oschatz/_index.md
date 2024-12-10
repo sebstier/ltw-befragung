@@ -70,5 +70,5 @@ user_groups:
 
 Corinna Oschatz ist Assistenprofessorin an der Amsterdam School of Communication Research der Universität Amsterdam. Ihre Promotion im Fach Kommunikationswissenschaft hat sie 2016 an der Universität Mainz abgeschlossen. Ihre Forschungsschwerpunkte liegen im Bereich der strategischen politischen Kommunikation und der Persuasionsforschung.
 
-Weitere Informationen zu Corinna Oschatz finden Sie <a href="https://www.feb.uva.nl/en/profile/o/s/c.m.oschatz/c.m.oschatz.html?origin=FedfLwcOQvudaYuxtk0OMA" target="_blank">hier</a>.
+Weitere Informationen zu Corinna Oschatz finden Sie <a href="https://www.uva.nl/en/profile/o/s/c.m.oschatz/c.m.oschatz.html" target="_blank">hier</a>.
 
