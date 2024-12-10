@@ -70,5 +70,5 @@ user_groups:
 
 Mona Dian ist wissenschaftliche Mitarbeiterin am Institut für Politikwissenschaft an der RPTU - Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau. Im Jahr 2019 hat sie den Master in Soziologie an der Universität Mannheim abgeschlossen. Sie interessiert sich für politische Soziologie und für die Wahlkampfkommunikation von Kandidaten.
 
-Weitere Informationen zu Mona Dian finden Sie <a href="https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/mona-dian-m-a/mona-dian" target="_blank">hier</a>.
+Weitere Informationen zu Mona Dian finden Sie <a href="https://ksw.rptu.de/abt/politikwissenschaft/abteilung/politische-kommunikation/team/mona-dian-ma" target="_blank">hier</a>.
 
