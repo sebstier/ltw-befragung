@@ -40,6 +40,12 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2022 in Niedersachsen: {{% staticref "media/NDS_2022.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2023 in Berlin: {{% staticref "media/BER_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Bürgerschaftswahl 2023 in Bremen: {{% staticref "media/Bremen_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-* Kandidatenbefragung zur Landtagswahl 2023 in Bayern
-* Kandidatenbefragung zur Landtagswahl 2023 in Hessen
+* Kandidatenbefragung zur Landtagswahl 2023 in Bayern: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+* Kandidatenbefragung zur Landtagswahl 2023 in Hessen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+* Kandidatenbefragung zur Landtagswahl 2024 in Sachsen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+* Kandidatenbefragung zur Landtagswahl 2024 in Thüringen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+* Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+
+**Laufende Studien**
+* Kandidatenbefragung zur Bürgerschaftswahl 2025 in Hamburg
 
