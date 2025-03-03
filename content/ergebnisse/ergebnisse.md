@@ -26,8 +26,7 @@ design:
 
 Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragungen. In den kommenden Monaten werden wir auf dieser Webseite die Ergebnisberichte für alle Wahlen veröffentlichen.
 
-**Abgeschlossene Studien**
-
+**Abgeschlossene Studien und Ergebnisberichte**
 * Kandidatenbefragung zur Bürgerschaftswahl 2020 in Hamburg: {{% staticref "media/Hamburg2020.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2021 in Rheinland-Pfalz: {{% staticref "media/RLP_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2021 in Baden-Württemberg: {{% staticref "media/BaWue_2021.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
@@ -40,11 +39,13 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2022 in Niedersachsen: {{% staticref "media/NDS_2022.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Abgeordnetenhauswahl 2023 in Berlin: {{% staticref "media/BER_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Bürgerschaftswahl 2023 in Bremen: {{% staticref "media/Bremen_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-* Kandidatenbefragung zur Landtagswahl 2023 in Bayern: abgeschlossen, Ergebnisbericht wird derzeit erstellt
-* Kandidatenbefragung zur Landtagswahl 2023 in Hessen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
-* Kandidatenbefragung zur Landtagswahl 2024 in Sachsen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
-* Kandidatenbefragung zur Landtagswahl 2024 in Thüringen: abgeschlossen, Ergebnisbericht wird derzeit erstellt
-* Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg: abgeschlossen, Ergebnisbericht wird derzeit erstellt
+
+**Abgeschlossene Studien, Ergebnisbericht wird derzeit erstellt**
+* Kandidatenbefragung zur Landtagswahl 2023 in Bayern
+* Kandidatenbefragung zur Landtagswahl 2023 in Hessen
+* Kandidatenbefragung zur Landtagswahl 2024 in Sachsen
+* Kandidatenbefragung zur Landtagswahl 2024 in Thüringen
+* Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg
 
 **Laufende Studien**
 * Kandidatenbefragung zur Bürgerschaftswahl 2025 in Hamburg
