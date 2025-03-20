@@ -41,10 +41,11 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Bürgerschaftswahl 2023 in Bremen: {{% staticref "media/Bremen_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2023 in Bayern: {{% staticref "media/BY_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2023 in Hessen: {{% staticref "media/HE_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
+* Kandidatenbefragung zur Landtagswahl 2024 in Thüringen: {{% staticref "media/TH_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 
+ 
 **Abgeschlossene Studien, Ergebnisbericht wird derzeit erstellt**
 * Kandidatenbefragung zur Landtagswahl 2024 in Sachsen
-* Kandidatenbefragung zur Landtagswahl 2024 in Thüringen
 * Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg
 
 **Laufende Studien**
