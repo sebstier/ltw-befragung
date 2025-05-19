@@ -43,9 +43,7 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2023 in Hessen: {{% staticref "media/HE_2023.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2024 in Thüringen: {{% staticref "media/TH_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2024 in Sachsen: {{% staticref "media/SN_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-
-**Abgeschlossene Studien, Ergebnisbericht wird derzeit erstellt**
-* Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg
+* * Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg: {{% staticref "media/Brandenburg_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 
 **Laufende Studien**
 * Kandidatenbefragung zur Bürgerschaftswahl 2025 in Hamburg
