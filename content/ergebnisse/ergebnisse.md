@@ -44,7 +44,5 @@ Hier finden Sie Informationen zu den von uns durchgeführten Kandidatenbefragung
 * Kandidatenbefragung zur Landtagswahl 2024 in Thüringen: {{% staticref "media/TH_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2024 in Sachsen: {{% staticref "media/SN_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 * Kandidatenbefragung zur Landtagswahl 2024 in Brandenburg: {{% staticref "media/Brandenburg_2024.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
-
-**Laufende Studien**
-* Kandidatenbefragung zur Bürgerschaftswahl 2025 in Hamburg
+* Kandidatenbefragung zur Bürgerschaftswahl 2025 in Hamburg: {{% staticref "media/Hamburg2025.pdf" "newtab" %}}Ergebnisse{{% /staticref %}}
 
